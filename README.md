@@ -4,6 +4,7 @@ This is the code for our paper "Model-based Reinforcement Learning for the Navig
 
 # Dependency
 
+- ubuntu=18.04
 - python>=3.7
 - pytorch>=1.7.0
 - torchvision>=0.8.1
